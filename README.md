@@ -1,6 +1,5 @@
 # 🤖 KUKA LBR iiwa – Null-Space Obstacle Avoidance
 
-![Control Scheme](control_scheme.png)
 ![KUKA Avoidance](kuka_avoidance.gif)
 
 ## 🧠 Overview
@@ -14,6 +13,8 @@ The main idea is simple but powerful:
 The system is implemented in **MATLAB** and simulated in **CoppeliaSim** via the **ZeroMQ Remote API**.
 
 ---
+![Control Scheme](control_scheme.png)
+
 
 ## ⚙️ How it works (intuition first)
 
@@ -59,6 +60,8 @@ Pipeline:
 - Prevents local minima  
 
 ---
+
+
 
 ## 🛡️ Robustness Strategies
 
