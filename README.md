@@ -34,8 +34,7 @@ Pipeline:
 ## 🧮 Control Law
 
 
-\$$dot{q} = J^\dagger v + (I - J^\dagger J) z$$
-$\sqrt{3x-1}+(1+x)^2$
+$$\dot{q} = J^{\dagger} v + (I - J^{\dagger} J)\thinspace z$$
 
 - First term → tracking  
 - Second term → null-space action (avoidance)
