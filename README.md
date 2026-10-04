@@ -1,6 +1,6 @@
 # KUKA LBR iiwa — Null-Space Obstacle Avoidance
 
-![The arm tracking its waypoints while the elbow swings clear of the obstacles](kuka_avoidance.gif)
+![The arm tracking its waypoints while the elbow swings clear of the obstacles](preview.gif)
 
 A 7-joint arm asked to put its end-effector somewhere has more ways to do it than it
 needs. This project spends the surplus on staying out of the way: the end-effector keeps
@@ -215,7 +215,7 @@ model/
 sim/
   kuka_scene.ttt           CoppeliaSim scene: robot, obstacles, waypoints
 control_scheme.png         controller block diagram
-kuka_avoidance.gif         demo
+preview.gif         demo
 ```
 
 ## License

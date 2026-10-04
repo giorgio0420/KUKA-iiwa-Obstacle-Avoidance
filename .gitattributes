@@ -1,0 +1,6 @@
+# Keep binaries byte-exact
+*.gif binary
+*.png binary
+*.jpg binary
+*.ttt binary
+*.dae binary
